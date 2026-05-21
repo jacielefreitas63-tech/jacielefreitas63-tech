@@ -42,4 +42,4 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Atualmente, estou em transição de c
 ---
 
 ### 📫 Vamos nos conectar?
-* 💼 *LinkedIn:* [Jaciele Freitas ] https://www.linkedin.com/jaciele-freitas
+* 💼 *LinkedIn:* [Jaciele Freitas ] www.linkedin.com/in/jaciele-freitas
