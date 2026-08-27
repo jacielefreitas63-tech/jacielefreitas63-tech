@@ -32,6 +32,7 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Atualmente, estou em transição de c
 * *Banco de Dados:* SQL (Consultas, Estruturação e Modelagem)
 * *Manipulação e Análise:* Google Sheets / Excel Avançado
 * *Apresentação e Prototipagem:* Figma, Canva
+  
 
 ---
 
