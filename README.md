@@ -30,7 +30,7 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Atualmente, estou em transição de c
 ### 🛠️ Tecnologias e Ferramentas
 * *Linguagens de Programação:* Python (Pandas, NumPy)
 * *Banco de Dados:* SQL (Consultas, Estruturação e Modelagem)
-* *Manipulação e Análise:* Google Sheets / Excel Avançado
+* *Manipulação e Análise:* Google Sheets / Excel Avançado / LookerStudio
 * *Apresentação e Prototipagem:* Figma, Canva
   
 
